@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T2-P01-N03-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t2-p01-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Wind Mitigation Inspections & Insurance Premium Discounts in Tampa",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p01-n03-local/",
+  "primaryEntity": "Self-Adhering Secondary Water Resistance (SWR) Underlayment Sealing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t1-p00-n01-local/",
+      "anchor": "Tampa Roofing Contractor & 24/7 Storm Damage Restoration Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/services/tile-roof-repair/",
+    "https://roofingcontractortampa.net/services/metal-roofing/",
+    "https://roofingcontractortampa.net/services/shingle-roofing/"
+  ]
+}
