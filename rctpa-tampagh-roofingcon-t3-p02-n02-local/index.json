@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T3-P02-N02-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t3-p02-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Hurricane Tie-Downs, Truss Clips & Rafter Structural Reinforcement in Tampa",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t3-p02-n02-local/",
+  "primaryEntity": "High-Resolution Radiometric Drone Aerial Thermal Moisture Mapping",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p01-n02-local/",
+      "anchor": "Florida 25% Roof Replacement Rule & Code Permitting in Tampa",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/services/roof-inspection/",
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/guides/roof-insurance-claim-florida/",
+    "https://roofingcontractortampa.net/service-areas/south-tampa/",
+    "https://roofingcontractortampa.net/service-areas/brandon/"
+  ]
+}
