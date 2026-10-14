@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T3-P05-N02-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t3-p05-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Carrollwood & Northdale Concrete Tile Roof Maintenance & Repair",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t3-p05-n02-local/",
+  "primaryEntity": "Form OIR-B1-1802 Uniform Mitigation Verification Inspection Protocols",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p02-n02-local/",
+      "anchor": "Standing Seam Metal Roofing Installation & Replacement in Tampa FL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/services/roof-inspection/",
+    "https://roofingcontractortampa.net/services/emergency-roof-tarping/",
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/services/tile-roof-repair/",
+    "https://roofingcontractortampa.net/services/metal-roofing/"
+  ]
+}
