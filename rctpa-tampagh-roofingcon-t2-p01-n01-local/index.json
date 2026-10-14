@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T2-P01-N01-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Hurricane Milton & Helene Storm Damage Roof Repair in Tampa FL",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p01-n01-local/",
+  "primaryEntity": "Florida 25% Roof Replacement Rule Statutory Compliance (F.S. 553.844)",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t1-p00-n01-local/",
+      "anchor": "Tampa Roofing Contractor & 24/7 Storm Damage Restoration Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/guides/florida-25-percent-roof-rule/",
+    "https://roofingcontractortampa.net/services/emergency-roof-tarping/",
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/services/tile-roof-repair/",
+    "https://roofingcontractortampa.net/services/metal-roofing/"
+  ]
+}
