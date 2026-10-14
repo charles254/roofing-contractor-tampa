@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p01-n01-local/sitemap.xml
