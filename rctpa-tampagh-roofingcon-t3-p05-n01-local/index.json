@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T3-P05-N01-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t3-p05-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Brandon & Valrico Storm Damage Roof Tarping & Replacement Services",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t3-p05-n01-local/",
+  "primaryEntity": "Florida Building Code (FBC) 8th Edition High-Velocity Hurricane Standards",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p02-n02-local/",
+      "anchor": "Standing Seam Metal Roofing Installation & Replacement in Tampa FL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/guides/florida-25-percent-roof-rule/",
+    "https://roofingcontractortampa.net/services/emergency-roof-tarping/",
+    "https://roofingcontractortampa.net/services/tile-roof-repair/"
+  ]
+}
