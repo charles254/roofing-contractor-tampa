@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T3-P03-N01-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Roof Flashing Diagnostics: Step, Kickout, Valley & Chimney Repair in Tampa",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t3-p03-n01-local/",
+  "primaryEntity": "Simpson Strong-Tie Hurricane Rafter Clips & Truss Tie-Down Retrofitting",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p01-n03-local/",
+      "anchor": "Wind Mitigation Inspections & Insurance Premium Discounts in Tampa",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/guides/roof-insurance-claim-florida/",
+    "https://roofingcontractortampa.net/service-areas/south-tampa/",
+    "https://roofingcontractortampa.net/service-areas/brandon/",
+    "https://roofingcontractortampa.net/services/roof-inspection/"
+  ]
+}
