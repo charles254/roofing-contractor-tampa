@@ -1,0 +1,25 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T3-P04-N01-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Xactimate Insurance Claim Itemization & Storm Damage Estimating in Tampa",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t3-p04-n01-local/",
+  "primaryEntity": "South Tampa & Historic Hyde Park Architectural Review Board Compliance",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p02-n01-local/",
+      "anchor": "Spanish Concrete & Clay Tile Roof Repair & Replacement in Tampa",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/service-areas/south-tampa/",
+    "https://roofingcontractortampa.net/service-areas/brandon/",
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/services/roof-inspection/",
+    "https://roofingcontractortampa.net/guides/florida-25-percent-roof-rule/",
+    "https://roofingcontractortampa.net/services/emergency-roof-tarping/"
+  ]
+}
