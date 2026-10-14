@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T2-P02-N03-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t2-p02-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Architectural Asphalt Shingle Roofing Contractors in Tampa FL",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p02-n03-local/",
+  "primaryEntity": "24-Gauge Galvalume Standing Seam Metal & Coastal Salt Corrosion Defense",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t1-p00-n02-local/",
+      "anchor": "Florida 25% Roof Rule, Wind Mitigation & Insurance Claim Guide in Tampa",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/services/metal-roofing/",
+    "https://roofingcontractortampa.net/services/shingle-roofing/",
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/services/roof-inspection/"
+  ]
+}
