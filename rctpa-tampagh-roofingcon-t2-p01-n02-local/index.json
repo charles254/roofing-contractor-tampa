@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T2-P01-N02-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t2-p01-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Florida 25% Roof Replacement Rule & Code Permitting in Tampa",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p01-n02-local/",
+  "primaryEntity": "24/7 Rapid Emergency Roof Tarping & Furring Batten Stabilization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t1-p00-n01-local/",
+      "anchor": "Tampa Roofing Contractor & 24/7 Storm Damage Restoration Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/services/emergency-roof-tarping/",
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/services/tile-roof-repair/",
+    "https://roofingcontractortampa.net/services/metal-roofing/",
+    "https://roofingcontractortampa.net/services/shingle-roofing/"
+  ]
+}
