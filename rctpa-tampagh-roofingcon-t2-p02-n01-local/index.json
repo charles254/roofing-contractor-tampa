@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCTPA-TAMPAGH-ROOFINGCON-T2-P02-N01-LOCAL",
+  "slug": "rctpa-tampagh-roofingcon-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Spanish Concrete & Clay Tile Roof Repair & Replacement in Tampa",
+  "canonical": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t2-p02-n01-local/",
+  "primaryEntity": "Structural Roof Deck 8d Ring-Shank Fastening (6-Inch OC Spacing)",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-contractor-tampa/rctpa-tampagh-roofingcon-t1-p00-n02-local/",
+      "anchor": "Florida 25% Roof Rule, Wind Mitigation & Insurance Claim Guide in Tampa",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcontractortampa.net/",
+    "https://roofingcontractortampa.net/services/tile-roof-repair/",
+    "https://roofingcontractortampa.net/services/metal-roofing/",
+    "https://roofingcontractortampa.net/services/shingle-roofing/"
+  ]
+}
